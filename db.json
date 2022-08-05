@@ -1,26 +1,6 @@
 {
-    "userSignUp": [
-        {
-            "id" : 0,
-            "userName" : "Leonard Egbaaibon",
-            "email": "legbaaibon@gmail.com",
-            "paswword" : "qwertyuiop12345",
-            "repeatPassword" :"qwertyuiop12345"
-        },
-        {
-            "id" : 2,
-            "userName" : "Christopher Egbaaibon",
-            "email": "femi07@gmail.com",
-            "paswword" : "qwertyuiopis12345",
-            "repeatPassword" :"qwertyuiopis12345"
-        },
-        {
-            "id" : 3,
-            "userName" : "John Egbaaibon",
-            "email": "johnegbaaibon@gmail.com",
-            "paswword" : "qwertyuioper12345",
-            "repeatPassword" :"qwertyuioper12345"
-        }
+    "BBNslip": [
+   
 
     ]
 }
